@@ -1,3 +1,7 @@
+.idea/
+common/common.iml
+problem35/problem35.iml
+
 # Compiled class file
 *.class
 
