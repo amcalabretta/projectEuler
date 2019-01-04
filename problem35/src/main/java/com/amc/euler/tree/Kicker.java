@@ -8,6 +8,7 @@ public class Kicker {
     }
 
     public SolutionTree generateTree() {
+        SolutionTree solutionTree = new SolutionTree();
         return null;
     }
 }
